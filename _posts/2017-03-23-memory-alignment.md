@@ -1,7 +1,7 @@
 ---
 layout: post_layout
 title: 内存对齐规则之我见
-time: 2017年03月22日 星期三
+time: 2017年03月23日 星期四
 location: 武汉
 pulished: true
 excerpt_separator: "```"
