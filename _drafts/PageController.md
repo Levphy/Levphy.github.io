@@ -1,8 +1,8 @@
 ---
 layout: post_layout
 title: PageController的使用介绍
-time: 2016年04月05日 星期二
-location: 上海
+time: 2017年03月22日 星期二
+location: 武汉
 pulished: true
 excerpt_separator: "#"
 ---
