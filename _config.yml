@@ -1,9 +1,9 @@
 # Site settings
-title: Liang Ke Jin
-description: Liang Ke Jin
-favicon: /assets/img/avatar.JPG
+title: 李飞
+description: Li Fei
+favicon: /assets/img/psb.JPG
 baseurl:
-url: https://liungkejin.github.io
+url: https://levphy.github.io
 rss_url:
 
 # Build settings
@@ -11,7 +11,7 @@ rss_url:
 highlight: true
 #highlighter: rouge
 
-timezone: Asia/Shanghai
+timezone: Asia/Wuhan
 
 markdown: kramdown
 kramdown:
