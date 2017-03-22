@@ -1,7 +1,7 @@
 # Site settings
 title: 李飞
 description: Li Fei
-favicon: /assets/img/psb.JPG
+favicon: /assets/img/psb.jpg
 baseurl:
 url: https://levphy.github.io
 rss_url:
