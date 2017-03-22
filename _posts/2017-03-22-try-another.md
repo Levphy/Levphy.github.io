@@ -6,7 +6,7 @@ location: 武汉
 pulished: true
 excerpt_separator: "```"
 ---
-> 这篇文章主要主要用于测试我的博客版本
+> 这篇文章主要主要用于测试我新搭建的博客，但是目前还不太习惯于markdown写博客，学习中-_-
 >
 > ```c++
 > // 快速排序, 平均时间复杂度O(NlogN)
