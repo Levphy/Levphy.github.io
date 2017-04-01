@@ -2,4 +2,4 @@
 
 > -_-!
 
-![Blog](/assets/img/blog.png)
+![Blog](/assets/img/psb.jpg)
