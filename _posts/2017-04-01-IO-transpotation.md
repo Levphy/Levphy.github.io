@@ -14,8 +14,8 @@ excerpt_separator: "```"
 
 2. 平台无关
 
-   数字---->字符串   C语言: sprintf()函数  C++: ostringstream  C++11: to_string()函数
+   数字---->字符串   C语言: sprintf()函数    C++: ostringstream    C++11: to_string()函数
 
-   字符串---->数字   C语言: sscanf()函数   C++: istringstream    C++11: stoi()、stol()、stoll()、stoull()、stof()、stod()、stold()
+   字符串---->数字   C语言: sscanf()函数    C++: istringstream      C++11: stoi()、stol()、stoll()[字符串转long long类型]、stoull()[转unsigned long long]、stof()[转float]、stod()[转double]、stold()[转long double]
 
 3. 示例
