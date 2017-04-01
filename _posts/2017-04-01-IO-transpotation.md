@@ -45,7 +45,7 @@ excerpt_separator: "```"
 
    上面代码在codeblocks + MinGW上运行的结果是
 
-   ![blog](../assets/img/blog3.png)
+   ![blog](/assets/img/blog3.png)
 
    需要注意的是，整数形式的转换能够得到完全一致的结果，由于众所周知的浮点数精度问题，所以在进行浮点数转换时，存在不完全一致的结果。另外，sprintf函数输出结果是第一个参数，sscanf函数的输出结果是第二个参数右边的参数(可变参数的原因)，所以两个函数的第二个参数(格式控制字符串)使用有所差异。具体表现为，sprintf函数需要如上述程序示例那样，在转换时指定小数点位数；而sscanf函数需要指定的是与输出结果变量类型相一致的控制符。底层的原因是函数参数都是从右往左压栈，但是两个函数的输出结果的参数位置不一致导致。
 
@@ -78,6 +78,6 @@ excerpt_separator: "```"
 
    输出结果为
 
-   ![blog](../assets/img/blog3_2.png)
+   ![blog](/assets/img/blog3_2.png)
 
    ​
