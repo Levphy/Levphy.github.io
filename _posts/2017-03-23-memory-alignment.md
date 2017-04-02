@@ -179,3 +179,6 @@ struct sds{
     char buf[1];
 };
 ```
+
+
+我们知道，C++为了兼容C，保留了struct关键字，但是实际上C++中的struct仍然是一个class，C++标准规定，一个空类的大小为1个字节，因此在C++中，sizeof(空类或空结构体) = 1，在C语言中，sizeof(空结构体) = 0。
